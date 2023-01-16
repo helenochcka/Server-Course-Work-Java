@@ -1,0 +1,43 @@
+2023-01-17 00:23:31,635 INFO - [Connections] Port 8000 is listening now by address: 192.168.0.102
+2023-01-17 01:05:51,610 INFO - [Connections] New client with IP: 127.0.0.1 connected.
+2023-01-17 01:05:51,731 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:05:51,873 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:06:09,819 INFO - Received packet: (Type: UPDATE Body: f12b2a80aeb7;1;1;1;hhj;1;1)
+2023-01-17 01:06:09,848 INFO - Executed CREATE or UPDATE for user: /127.0.0.1
+2023-01-17 01:06:09,919 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:06:09,920 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:06:15,904 INFO - Received packet: (Type: READ Body: 1)
+2023-01-17 01:06:15,923 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:06:25,516 INFO - Received packet: (Type: READ Body: 15)
+2023-01-17 01:06:25,519 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:06:51,697 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:06:51,700 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:06:56,884 INFO - Received packet: (Type: DELETE Body: f12b2a80aeb7;1;1;1;hhj;1;1)
+2023-01-17 01:06:56,896 INFO - Executed DELETE for user: /127.0.0.1
+2023-01-17 01:06:56,985 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:06:56,988 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:09:38,561 WARN - [Connection] Client by address /127.0.0.1 disconnected.
+2023-01-17 01:11:23,324 ERROR - [Connections] Already existing client tried to connect
+2023-01-17 01:11:40,144 ERROR - [Connections] Already existing client tried to connect
+2023-01-17 01:12:47,440 INFO - [Connections] Port 8000 is listening now by address: 192.168.0.102
+2023-01-17 01:13:14,871 INFO - [Connections] New client with IP: 127.0.0.1 connected.
+2023-01-17 01:13:14,986 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:13:15,118 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:13:18,670 WARN - [Connection] Client by address /127.0.0.1 disconnected.
+2023-01-17 01:13:35,640 ERROR - [Connections] Already existing client tried to connect
+2023-01-17 01:14:03,507 INFO - [Connections] Port 8000 is listening now by address: 192.168.0.102
+2023-01-17 01:14:11,079 INFO - [Connections] New client with IP: 127.0.0.1 connected.
+2023-01-17 01:14:11,193 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:14:11,313 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:15:10,612 INFO - Received packet: (Type: UPDATE Body: 395a28e7a357;AJ89;Osadchuk Helen;Apartment;Paris;100;05.05.2020)
+2023-01-17 01:15:10,643 INFO - Executed CREATE or UPDATE for user: /127.0.0.1
+2023-01-17 01:15:10,713 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:15:10,716 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:17:07,053 INFO - Received packet: (Type: CREATE Body: 65fc9ba9acfb;BR7Y;Likhacheva Irina;House;Sochi;160;03.05.2014)
+2023-01-17 01:17:07,064 INFO - Executed CREATE or UPDATE for user: /127.0.0.1
+2023-01-17 01:17:07,154 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:17:07,157 INFO - Executed READ for user: /127.0.0.1
+2023-01-17 01:20:58,711 INFO - Received packet: (Type: CREATE Body: 320be9adfab3;EV9E;Vikhlyaeva;Land;Havana;258;07.07.2007)
+2023-01-17 01:20:58,720 INFO - Executed CREATE or UPDATE for user: /127.0.0.1
+2023-01-17 01:20:58,812 INFO - Received packet: (Type: READ Body: )
+2023-01-17 01:20:58,815 INFO - Executed READ for user: /127.0.0.1

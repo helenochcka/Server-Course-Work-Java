@@ -1,0 +1,9 @@
+CREATE TABLE entry {
+	id int PRIMARY KEY,
+	proofOfOwnership varchar(100) UNIQUE,
+	owner varchar(100),
+	realEstateType varchar(100),
+	location varchar(100),
+	squareFootage int,
+	dateOfPurchase varchar(100)
+}
